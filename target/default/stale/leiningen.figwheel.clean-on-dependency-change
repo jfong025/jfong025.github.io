@@ -1,0 +1,1 @@
+([clojure-complete/clojure-complete "0.2.5" :exclusions ([org.clojure/clojure])] [nrepl/nrepl "0.8.3" :exclusions ([org.clojure/clojure])] [org.clojure/clojure "1.10.1"] [org.clojure/clojurescript "1.10.520"] [quil/quil "4.0.0-SNAPSHOT"])
